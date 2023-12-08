@@ -1,0 +1,17 @@
+<!DOCTYPE.html>
+<head>
+  <meta name="viewport" content="width=device width, initial-scale=1.0>
+  <link rel="stylesheet.css">
+  <title>FOOD</title>
+</head>
+<body>
+  <header><h1>
+    FOOD
+  </h1></header>
+  <nav>
+  <ul>
+   <li><a href="page1.html" target="iframe">veg</a></i>
+   <li><a href="page2.html" target="iframe">non veg</a></i>
+  </ul></nav>
+  <iframe .name="frame" id="frame" src="pagel.html"></iframe>
+</body></html>
